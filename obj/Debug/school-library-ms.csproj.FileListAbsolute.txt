@@ -1,0 +1,17 @@
+E:\Viual studio\school-library-ms\bin\Debug\school-library-ms.exe.config
+E:\Viual studio\school-library-ms\bin\Debug\school-library-ms.exe
+E:\Viual studio\school-library-ms\bin\Debug\school-library-ms.pdb
+E:\Viual studio\school-library-ms\obj\Debug\school-library-ms.csproj.AssemblyReference.cache
+E:\Viual studio\school-library-ms\obj\Debug\school_library_ms.Form1.resources
+E:\Viual studio\school-library-ms\obj\Debug\school_library_ms.Properties.Resources.resources
+E:\Viual studio\school-library-ms\obj\Debug\school-library-ms.csproj.GenerateResource.cache
+E:\Viual studio\school-library-ms\obj\Debug\school-library-ms.csproj.CoreCompileInputs.cache
+E:\Viual studio\school-library-ms\obj\Debug\school-library-ms.exe
+E:\Viual studio\school-library-ms\obj\Debug\school-library-ms.pdb
+E:\Viual studio\school-library-ms\obj\Debug\school_library_ms.Login.resources
+E:\Viual studio\school-library-ms\obj\Debug\school_library_ms.Home.resources
+E:\Viual studio\school-library-ms\obj\Debug\school_library_ms.Student.resources
+E:\Viual studio\school-library-ms\obj\Debug\school_library_ms.Book.resources
+E:\Viual studio\school-library-ms\obj\Debug\school_library_ms.issue_book.resources
+E:\Viual studio\school-library-ms\obj\Debug\school_library_ms.returnBook.resources
+E:\Viual studio\school-library-ms\obj\Debug\school_library_ms.dashboard.resources

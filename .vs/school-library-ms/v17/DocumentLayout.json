@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Viual studio\\school-library-ms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E6A4F9A-3ACC-43B9-8BA7-3CA30A399EBE}|school-library-ms.csproj|E:\\Viual studio\\school-library-ms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E6A4F9A-3ACC-43B9-8BA7-3CA30A399EBE}|school-library-ms.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E6A4F9A-3ACC-43B9-8BA7-3CA30A399EBE}|school-library-ms.csproj|e:\\viual studio\\school-library-ms\\returnbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E6A4F9A-3ACC-43B9-8BA7-3CA30A399EBE}|school-library-ms.csproj|solutionrelative:returnbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E6A4F9A-3ACC-43B9-8BA7-3CA30A399EBE}|school-library-ms.csproj|e:\\viual studio\\school-library-ms\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E6A4F9A-3ACC-43B9-8BA7-3CA30A399EBE}|school-library-ms.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E6A4F9A-3ACC-43B9-8BA7-3CA30A399EBE}|school-library-ms.csproj|E:\\Viual studio\\school-library-ms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E6A4F9A-3ACC-43B9-8BA7-3CA30A399EBE}|school-library-ms.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E6A4F9A-3ACC-43B9-8BA7-3CA30A399EBE}|school-library-ms.csproj|E:\\Viual studio\\school-library-ms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E6A4F9A-3ACC-43B9-8BA7-3CA30A399EBE}|school-library-ms.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E6A4F9A-3ACC-43B9-8BA7-3CA30A399EBE}|school-library-ms.csproj|E:\\Viual studio\\school-library-ms\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E6A4F9A-3ACC-43B9-8BA7-3CA30A399EBE}|school-library-ms.csproj|solutionrelative:home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E6A4F9A-3ACC-43B9-8BA7-3CA30A399EBE}|school-library-ms.csproj|E:\\Viual studio\\school-library-ms\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E6A4F9A-3ACC-43B9-8BA7-3CA30A399EBE}|school-library-ms.csproj|solutionrelative:home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E6A4F9A-3ACC-43B9-8BA7-3CA30A399EBE}|school-library-ms.csproj|e:\\viual studio\\school-library-ms\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E6A4F9A-3ACC-43B9-8BA7-3CA30A399EBE}|school-library-ms.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E6A4F9A-3ACC-43B9-8BA7-3CA30A399EBE}|school-library-ms.csproj|E:\\Viual studio\\school-library-ms\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E6A4F9A-3ACC-43B9-8BA7-3CA30A399EBE}|school-library-ms.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E6A4F9A-3ACC-43B9-8BA7-3CA30A399EBE}|school-library-ms.csproj|E:\\Viual studio\\school-library-ms\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E6A4F9A-3ACC-43B9-8BA7-3CA30A399EBE}|school-library-ms.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E6A4F9A-3ACC-43B9-8BA7-3CA30A399EBE}|school-library-ms.csproj|E:\\Viual studio\\school-library-ms\\issue_book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E6A4F9A-3ACC-43B9-8BA7-3CA30A399EBE}|school-library-ms.csproj|solutionrelative:issue_book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E6A4F9A-3ACC-43B9-8BA7-3CA30A399EBE}|school-library-ms.csproj|E:\\Viual studio\\school-library-ms\\returnbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E6A4F9A-3ACC-43B9-8BA7-3CA30A399EBE}|school-library-ms.csproj|solutionrelative:returnbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E6A4F9A-3ACC-43B9-8BA7-3CA30A399EBE}|school-library-ms.csproj|E:\\Viual studio\\school-library-ms\\issue_book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E6A4F9A-3ACC-43B9-8BA7-3CA30A399EBE}|school-library-ms.csproj|solutionrelative:issue_book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E6A4F9A-3ACC-43B9-8BA7-3CA30A399EBE}|school-library-ms.csproj|E:\\Viual studio\\school-library-ms\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E6A4F9A-3ACC-43B9-8BA7-3CA30A399EBE}|school-library-ms.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E6A4F9A-3ACC-43B9-8BA7-3CA30A399EBE}|school-library-ms.csproj|E:\\Viual studio\\school-library-ms\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E6A4F9A-3ACC-43B9-8BA7-3CA30A399EBE}|school-library-ms.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E6A4F9A-3ACC-43B9-8BA7-3CA30A399EBE}|school-library-ms.csproj|E:\\Viual studio\\school-library-ms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E6A4F9A-3ACC-43B9-8BA7-3CA30A399EBE}|school-library-ms.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "dashboard.cs",
+              "DocumentMoniker": "E:\\Viual studio\\school-library-ms\\dashboard.cs",
+              "RelativeDocumentMoniker": "dashboard.cs",
+              "ToolTip": "E:\\Viual studio\\school-library-ms\\dashboard.cs",
+              "RelativeToolTip": "dashboard.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAmwBgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T09:08:18.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dashboard.cs [Design]",
+              "DocumentMoniker": "E:\\Viual studio\\school-library-ms\\dashboard.cs",
+              "RelativeDocumentMoniker": "dashboard.cs",
+              "ToolTip": "E:\\Viual studio\\school-library-ms\\dashboard.cs [Design]",
+              "RelativeToolTip": "dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T09:07:57.823Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "returnBook.cs [Design]",
+              "DocumentMoniker": "E:\\Viual studio\\school-library-ms\\returnBook.cs",
+              "RelativeDocumentMoniker": "returnBook.cs",
+              "ToolTip": "E:\\Viual studio\\school-library-ms\\returnBook.cs [Design]",
+              "RelativeToolTip": "returnBook.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T06:39:53.873Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "returnBook.cs",
+              "DocumentMoniker": "E:\\Viual studio\\school-library-ms\\returnBook.cs",
+              "RelativeDocumentMoniker": "returnBook.cs",
+              "ToolTip": "E:\\Viual studio\\school-library-ms\\returnBook.cs",
+              "RelativeToolTip": "returnBook.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAA9wCUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T07:04:27.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "issue_book.cs",
+              "DocumentMoniker": "E:\\Viual studio\\school-library-ms\\issue_book.cs",
+              "RelativeDocumentMoniker": "issue_book.cs",
+              "ToolTip": "E:\\Viual studio\\school-library-ms\\issue_book.cs",
+              "RelativeToolTip": "issue_book.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAAAGMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T04:12:54.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "issue_book.cs [Design]",
+              "DocumentMoniker": "E:\\Viual studio\\school-library-ms\\issue_book.cs",
+              "RelativeDocumentMoniker": "issue_book.cs",
+              "ToolTip": "E:\\Viual studio\\school-library-ms\\issue_book.cs [Design]",
+              "RelativeToolTip": "issue_book.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T03:49:07.322Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Book.cs",
+              "DocumentMoniker": "E:\\Viual studio\\school-library-ms\\Book.cs",
+              "RelativeDocumentMoniker": "Book.cs",
+              "ToolTip": "E:\\Viual studio\\school-library-ms\\Book.cs",
+              "RelativeToolTip": "Book.cs",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAAAJkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T03:15:25.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Book.cs [Design]",
+              "DocumentMoniker": "E:\\Viual studio\\school-library-ms\\Book.cs",
+              "RelativeDocumentMoniker": "Book.cs",
+              "ToolTip": "E:\\Viual studio\\school-library-ms\\Book.cs [Design]",
+              "RelativeToolTip": "Book.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T03:02:30.102Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\Viual studio\\school-library-ms\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "E:\\Viual studio\\school-library-ms\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAiwEcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T23:10:03.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "E:\\Viual studio\\school-library-ms\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "E:\\Viual studio\\school-library-ms\\Login.cs [Design]",
+              "RelativeToolTip": "Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T20:32:46.581Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Student.cs [Design]",
+              "DocumentMoniker": "E:\\Viual studio\\school-library-ms\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "E:\\Viual studio\\school-library-ms\\Student.cs [Design]",
+              "RelativeToolTip": "Student.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T22:11:23.223Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Home.cs",
+              "DocumentMoniker": "E:\\Viual studio\\school-library-ms\\Home.cs",
+              "RelativeDocumentMoniker": "Home.cs",
+              "ToolTip": "E:\\Viual studio\\school-library-ms\\Home.cs",
+              "RelativeToolTip": "Home.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAIwDgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T21:31:23.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Home.cs [Design]",
+              "DocumentMoniker": "E:\\Viual studio\\school-library-ms\\Home.cs",
+              "RelativeDocumentMoniker": "Home.cs",
+              "ToolTip": "E:\\Viual studio\\school-library-ms\\Home.cs [Design]",
+              "RelativeToolTip": "Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T21:24:28.01Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Login.cs",
+              "DocumentMoniker": "E:\\Viual studio\\school-library-ms\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "E:\\Viual studio\\school-library-ms\\Login.cs",
+              "RelativeToolTip": "Login.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAcwDQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T20:44:32.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\Viual studio\\school-library-ms\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\Viual studio\\school-library-ms\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T20:12:53.139Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\Viual studio\\school-library-ms\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\Viual studio\\school-library-ms\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA8wCoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T20:14:34.133Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
